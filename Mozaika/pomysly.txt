@@ -1,8 +1,0 @@
-1. wynikowy piksel sklada sie nie tylko z piksela miniaturki ale w pewnej czesci z oryginalnego piksela
-2. Zamiast dopasowywac miniaturki po sredniej koloru obszaru i miniaturki mozna liczyc dopasowanie kazdego z pixeli
-3. Dopasowywanie miniaturek zamiast zmiany ich rozmiaru
-4. Sepia
-5. Wielowatkowosc
-6. Pokazywanie na zywo co jest generowane w miniaturce mozaiki
-7. Mozliwosc zlecenia zmiany kakretnego zdjecia na wygenerowanej mozaice
-8. Mozliwosc permanentnego usiniecia z bazy zdjec miniatruki na mozaice
